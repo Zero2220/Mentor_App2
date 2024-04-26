@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarpi\\Desktop\\Mentor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426165526_databaseFicing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorInClass\\Migrations\\20240426165526_databaseFicing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\viewmodels\\fearicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\viewmodels\\fearicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\models\\pricingfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\pricingfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155331_Keyless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorInClass\\Migrations\\20240426155331_Keyless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor\\mentorinclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:14:49.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:14:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:13:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:12:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:12:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MentorInClass\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MentorInClass\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-26T17:11:59.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Program.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Program.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Program.cs",
+              "RelativeToolTip": "MentorInClass\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:44:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240426165526_databaseFicing.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426165526_databaseFicing.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Migrations\\20240426165526_databaseFicing.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426165526_databaseFicing.cs",
+              "RelativeToolTip": "MentorInClass\\Migrations\\20240426165526_databaseFicing.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:55:26.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeaRiceVM.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\ViewModels\\FeaRiceVM.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\ViewModels\\FeaRiceVM.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\ViewModels\\FeaRiceVM.cs",
+              "RelativeToolTip": "MentorInClass\\ViewModels\\FeaRiceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:58:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PricingFeature.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\PricingFeature.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\PricingFeature.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\PricingFeature.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\PricingFeature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:38:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Controllers\\PriceController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Controllers\\PriceController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Controllers\\PriceController.cs",
+              "RelativeToolTip": "MentorInClass\\Controllers\\PriceController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:28:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Price\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Price\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Price\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Price\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T15:29:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T21:47:13.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T21:43:44.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MentorInClass\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:45:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MentorInClass\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:38:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\Pricing.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\Pricing.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\Pricing.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\Pricing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:38:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Models\\Feature.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:38:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240426155512_IdAddedAgain.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs",
+              "RelativeToolTip": "MentorInClass\\Migrations\\20240426155512_IdAddedAgain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:55:12.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240426155331_Keyless.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155331_Keyless.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Migrations\\20240426155331_Keyless.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426155331_Keyless.cs",
+              "RelativeToolTip": "MentorInClass\\Migrations\\20240426155331_Keyless.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:53:31.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240426154902_featureAndPricingAdded.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs",
+              "RelativeToolTip": "MentorInClass\\Migrations\\20240426154902_featureAndPricingAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:49:02.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\appsettings.json",
+              "RelativeDocumentMoniker": "MentorInClass\\appsettings.json",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor\\MentorInClass\\appsettings.json",
+              "RelativeToolTip": "MentorInClass\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T15:17:42.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
